@@ -28,7 +28,7 @@ The project demonstrates basic security log analysis and Python automation.
 ## Project Structure
 
 ```text
-loganal/
+LogAnalyzer/
 ├── logs/
 │   └── security_events.csv
 ├── reports/
@@ -43,13 +43,13 @@ loganal/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/akinalv/LogAnalyzer.git
 ```
 
 2. Open the project directory:
 
 ```bash
-cd security-log-analyzer
+cd LogAnalyzer
 ```
 
 3. Run the analyzer:
@@ -106,3 +106,4 @@ Future improvements may include:
 ## Disclaimer
 
 This project is intended for educational purposes and uses sample security log data.
+

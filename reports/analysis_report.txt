@@ -1,0 +1,11 @@
+SECURITY LOG ANALYSIS
+---------------------
+Successful logins: 2
+Failed logins: 4
+
+Failed login attempts by IP:
+192.168.1.15: 3
+203.0.113.50: 1
+
+Suspicious IP addresses:
+WARNING: 192.168.1.15 - 3 failed attempts
